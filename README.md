@@ -79,12 +79,3 @@ Plots are also generated for per-epoch MAE/MSE and for the model's predictions v
 ## Important Note on "Speedup"
 
 The reported `[PLACEHOLDER, not physical] Speedup` value is computed against a mock simulation function (`physics_simulation`, based on `time.sleep`) and is **only a placeholder**, not a real physical benchmark.
-
-## Source
-
-This file was automatically generated from a Google Colab notebook:
-`https://colab.research.google.com/drive/1puZzo6smZwGb7h4Y9HN-OyS5LFxY-N9N`
-
-## License
-
-No license is currently specified in the repository. If you plan to publish this publicly, consider adding an appropriate `LICENSE` file.
